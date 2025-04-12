@@ -1,4 +1,4 @@
-# emotion_bridge.py
+# emotion_bridge.py This maps Loosh emotion output → behavioral commands for Souls robots.
 
 from loosh_emotion_model import load_emotion_model, analyze_emotion
 
